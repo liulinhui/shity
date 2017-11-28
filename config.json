@@ -1,0 +1,132 @@
+{
+  "port": 4000,
+  "address": "127.0.0.1",
+  "version": "0.3.0",
+  "fileLogLevel": "info",
+  "logFileName": "logs/shity.log",
+  "consoleLogLevel": "trace",
+  "trustProxy": false,
+  "db": {
+    "host": "localhost",
+    "port": 5432,
+    "database": "shity_test",
+    "user": null,
+    "password": "password",
+    "poolSize": 20,
+    "poolIdleTimeout": 30000,
+    "reapIntervalMillis": 1000,
+    "logEvents": [
+      "error"
+    ]
+  },
+  "api": {
+    "mount": true,
+    "access": {
+      "whiteList": []
+    },
+    "options": {
+      "limits": {
+        "max": 0,
+        "delayMs": 0,
+        "delayAfter": 0,
+        "windowMs": 60000
+      }
+    }
+  },
+  "peers": {
+    "minimumNetworkReach": 1,
+    "list": [
+      {
+        "ip": "127.0.0.1",
+        "port": 4000
+      }
+    ],
+    "blackList": [],
+    "options": {
+      "limits": {
+        "max": 0,
+        "delayMs": 0,
+        "delayAfter": 0,
+        "windowMs": 60000
+      },
+      "maxUpdatePeers": 20,
+      "timeout": 5000
+    }
+  },
+  "forging": {
+    "coldstart": 6,
+    "force": true,
+    "secret": [
+      "pluck unfair family creek creek occur girl always since code reflect kind",
+      "walnut only adapt wet lobster jeans seven actual frame pass admit moon",
+      "lunch east spread empower mixture teach south fall legend sort dice earn",
+      "broccoli general hamster arrange leave work gather agree enrich fiber acid merge",
+      "cruise object ride require ten crazy guide winner kiss ten convince immense",
+      "tomorrow way card cliff wood loan hungry input casual ozone crisp express",
+      "swear once uncle collect object fade craft actual census jeans logic reject",
+      "energy inform winner staff essay arrive mercy federal true cause slide boy",
+      "guide curve lab gallery boring alpha maple aware expand outdoor genius innocent",
+      "base ecology mountain shift inject slot comfort employ lumber twenty foot length",
+      "drip drink ecology similar mimic green economy clinic clip paper tackle imitate",
+      "twenty curve alter inflict disorder type swing print bulk limb acid stem",
+      "census yellow rescue message path amount potato waste smoke gloom jump easily",
+      "clerk busy strike wall knock twelve fit modify farm nuclear behind deny",
+      "humor treat sure arrow speed defense tank siege radar salute predict yard",
+      "enroll sustain sunset strike very horn danger repair aim emotion badge acquire",
+      "wasp wash purse gaze deal answer shield flush wing swallow bleak famous",
+      "steel book limit virtual focus awesome output remain position office wild reward",
+      "eyebrow fish cross focus before volcano sand adjust next chair feature chimney",
+      "spoil road announce vast casino clever column awful brief memory survey inner",
+      "thrive vocal margin youth super pilot joy ivory shy table sunny grit",
+      "music ghost tackle you adjust crumble ramp success spray weasel cabin reason",
+      "lamp naive wasp science device siege physical cupboard donate purity diagram symptom",
+      "pony fame wood bless modify truly rival crumble indicate child guitar marine",
+      "left online such unveil visa cluster empower salt diary wall leg snack",
+      "tobacco note open forget engage satoshi ketchup field tackle volume diary among",
+      "bullet method debris wage shock ripple van oppose exhaust win fat drink",
+      "observe girl desert feel nice firm gate invest other adapt problem almost",
+      "dutch glimpse wrist choose tone tobacco aunt gloom match decorate rubber morning",
+      "festival income toast identify modify note hedgehog goose kiwi cross skirt cross",
+      "service inject scorpion false afford enter tomorrow second glare lumber movie able",
+      "rebuild mimic plunge mimic lamp museum roof polar owner wave hole program",
+      "cactus pear rebuild curve citizen solar bless sun security tuition inhale trouble",
+      "save olympic claim fuel gallery twelve camp torch trouble seek excite thought",
+      "peace nothing excite business erode stock twist pole noise milk shock brave",
+      "neutral survey hotel anger ceiling tail engage stereo original popular gadget room",
+      "vibrant ivory remove wonder hobby priority rifle bacon noodle comfort ceiling setup",
+      "below prefer woman child basket collect blue planet oyster legend elder nice",
+      "brisk bind try typical thrive juice weapon mandate infant future exact sunny",
+      "assist garlic half embark void feel armor slide large warfare act patrol",
+      "decline toast team recycle short train cross aerobic bottom settle sponsor runway",
+      "eagle organ define system recycle bridge early pulse shed tonight blouse write",
+      "cross liberty object debris mistake sight bachelor atom few endorse dolphin wrong",
+      "mesh spread height zebra floor obvious over pigeon wasp company skirt indoor",
+      "smooth december gaze push genre inject average forget tongue chase color recycle",
+      "eternal iron differ math toss steak sunny ramp coach visit armor hip",
+      "mule talk pattern nation push shiver torch coffee festival venue address matrix",
+      "happy eyebrow cheap turtle enhance spatial expire shy kite artwork tourist give",
+      "lift muscle predict little vault deputy head valley trip rib settle theory",
+      "dust involve life ecology pudding oval police video hotel increase order speed",
+      "proud term response devote heavy canoe chicken gauge injury drink chunk poet"
+    ],
+    "access": {
+      "whiteList": [
+        "127.0.0.1"
+      ]
+    }
+  },
+  "loading": {
+    "verifyOnLoading": false,
+    "loadPerIteration": 5000
+  },
+  "ssl": {
+    "enabled": false,
+    "options": {
+      "port": 443,
+      "address": "0.0.0.0",
+      "key": "./ssl/ark.key",
+      "cert": "./ssl/ark.crt"
+    }
+  },
+  "nethash": "9889936692e748bd0c43bbf7f924bcbfd2cceca74f2ce35b178267fa43a2b290"
+}

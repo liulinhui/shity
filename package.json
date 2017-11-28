@@ -1,0 +1,63 @@
+{
+  "name": "shity",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node app.js",
+    "start:local": "node app.js --genesis genesisBlock.json --config config.json",
+    "test": "./node_modules/.bin/mocha"
+  },
+  "dependencies": {
+    "async": "^2.6.0",
+    "bip39": "^2.2.0",
+    "body-parser": "=1.18.2",
+    "bytebuffer": "=5.0.1",
+    "change-case": "=3.0.0",
+    "colors": "=1.1.2",
+    "commander": "=2.9.0",
+    "compression": "^1.7.1",
+    "cors": "^2.8.4",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-domain-middleware": "^0.1.0",
+    "express-query-int": "^2.0.0",
+    "express-rate-limit": "^2.9.0",
+    "extend": "^3.0.1",
+    "ip": "^1.1.5",
+    "json-schema": "^0.2.3",
+    "json-sql": "LiskHQ/json-sql#27e1ed1",
+    "lodash": "^4.17.4",
+    "method-override": "=2.3.6",
+    "pg-monitor": "=0.5.11",
+    "pg-native": "=1.10.0",
+    "pg-promise": "=5.3.3",
+    "popsicle": "=8.2.0",
+    "pug": "^2.0.0-beta11",
+    "randomstring": "^1.1.5",
+    "rimraf": "=2.5.4",
+    "socket.io": "^2.0.4",
+    "valid-url": "=1.0.9",
+    "shity-js": "https://github.com/liulinhui/shity-js.git",
+    "strftime": "^0.10.0",
+    "validator": "=5.7.0",
+    "validator.js": "=2.0.3",
+    "vorpal": "^1.12.0",
+    "z-schema": "^3.19.0"
+  },
+  "devDependencies": {
+    "bitcore-mnemonic": "=1.1.1",
+    "moment": "^2.19.2"
+  },
+  "config": {
+    "blanket": {
+      "pattern": [
+        "helpers",
+        "logic"
+      ],
+      "data-cover-never": [
+        "node_modules",
+        "test",
+        "tmp"
+      ]
+    }
+  }
+}
