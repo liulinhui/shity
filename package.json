@@ -2,9 +2,7 @@
   "name": "shity",
   "version": "0.0.1",
   "scripts": {
-    "start": "node app.js",
-    "start:local": "node app.js --genesis genesisBlock.json --config config.json",
-    "test": "./node_modules/.bin/mocha"
+    "start": "node app.js"
   },
   "dependencies": {
     "async": "^2.6.0",
@@ -27,25 +25,29 @@
     "json-sql": "LiskHQ/json-sql#27e1ed1",
     "lodash": "^4.17.4",
     "method-override": "=2.3.6",
-    "pg-monitor": "=0.5.11",
+    "pg-monitor": "=0.7.1",
     "pg-native": "=1.10.0",
-    "pg-promise": "=5.3.3",
-    "popsicle": "=8.2.0",
+    "pg-promise": "=5.5.6",
+    "popsicle": "=9.0.0",
     "pug": "^2.0.0-beta11",
     "randomstring": "^1.1.5",
-    "rimraf": "=2.5.4",
+    "rimraf": "=2.6.2",
     "socket.io": "^2.0.4",
-    "valid-url": "=1.0.9",
     "shity-js": "https://github.com/liulinhui/shity-js.git",
+    "valid-url": "=1.0.9",
     "strftime": "^0.10.0",
-    "validator": "=5.7.0",
-    "validator.js": "=2.0.3",
+    "validator": "=9.1.1",
     "vorpal": "^1.12.0",
     "z-schema": "^3.19.0"
   },
   "devDependencies": {
-    "bitcore-mnemonic": "=1.1.1",
-    "moment": "^2.19.2"
+    "rewire": "=2.5.2",
+    "bitcore-mnemonic": "=1.5.0",
+    "chai": "=4.1.2",
+    "chai-bignumber": "=2.0.2",
+    "mocha": "=4.0.1",
+    "moment": "^2.19.2",
+    "supertest": "=3.0.0"
   },
   "config": {
     "blanket": {

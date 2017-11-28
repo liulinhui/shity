@@ -9,7 +9,7 @@ const packageJson = require('./package.json');
 const path = require('path');
 const program = require('commander');
 const Sequence = require('./helpers/sequence.js');
-const z_schema = require('./helpers/z_schema.js');
+const Z_Schema = require('./helpers/z_schema.js');
 const colors = require('colors');
 const vorpal = require('vorpal')();
 const spawn = require('child_process').spawn;
@@ -139,7 +139,7 @@ d.run(function () {
         },
 
         schema: function (cb) {
-            let schema = new z_schema(appConfig.network).z_schema;
+            let schema = new Z_Schema(appConfig.network).z_schema;
             cb(null, new schema());
         },
 

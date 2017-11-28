@@ -3292,3 +3292,1460 @@
 [inf] 2017-11-28 06:22:08 | Adding forged to blockchain - 5693149314588314398
 [inf] 2017-11-28 06:22:08 | Processing forged block - 5693149314588314398
 [inf] 2017-11-28 06:22:09 | caught internal exit
+[inf] 2017-11-28 06:51:40 | ################################################
+[inf] 2017-11-28 06:51:40 | # Shity node server started on: 127.0.0.1:4000 #
+[inf] 2017-11-28 06:51:40 | ################################################
+[inf] 2017-11-28 06:51:40 | Modules ready and launched
+[inf] 2017-11-28 06:51:40 | Starting Node Manager
+[inf] 2017-11-28 06:51:42 | Transaction pool started
+[inf] 2017-11-28 06:51:42 | Mounting Network API
+[inf] 2017-11-28 06:51:42 | Mounting Public API
+[inf] 2017-11-28 06:51:42 | ###########################
+[inf] 2017-11-28 06:51:42 | # Started as a relay node #
+[inf] 2017-11-28 06:51:42 | ###########################
+[inf] 2017-11-28 06:51:42 | Mempool cleaned: 0 transaction(s) removed, 0 transaction(s) kept
+[inf] 2017-11-28 06:51:42 | Forging enabled on account: AbpCBjKXBp8PKdxafNTZDtXuQcpbHEWhoE
+[inf] 2017-11-28 06:51:42 | loaded 1 forgers of round 1
+[inf] 2017-11-28 06:51:42 | ########################################################
+[inf] 2017-11-28 06:51:42 | # Congratulations! This node is now an active delegate #
+[inf] 2017-11-28 06:51:42 | ########################################################
+[inf] 2017-11-28 06:51:42 | loaded 51 active delegates of round 1
+[inf] 2017-11-28 06:51:42 | Forging enabled on account: AT3oaJCx6vknZL2NUos8zwsA7AK7GXGgGc
+[inf] 2017-11-28 06:51:42 | Forging enabled on account: ASABFN1D4SMCrBC6XpC6NoqQW8tK4WycPu
+[inf] 2017-11-28 06:51:42 | Forging enabled on account: AM8StU5WMfbd65HtPGfvDmtqTLT4atqnZL
+[inf] 2017-11-28 06:51:43 | Loading blocks from: http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:43 | Forging enabled on account: AYXcUjka3XUnMNCdh2f5axLTLfVN3wsMYr
+[inf] 2017-11-28 06:51:43 | Forging enabled on account: ARxp9bL6VpRdzrtG99KRoQDbtfNcHPJSoU
+[ERR] 2017-11-28 06:51:43 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:43 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:43 | Loading blocks from: http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:43 | Forging enabled on account: Ab5ZZs3x1RNmu5KonCCiqDJasrUYJMfa3r
+[inf] 2017-11-28 06:51:43 | Forging enabled on account: AWGWKjdZ5DvVkBPcpSbNu6c7qeGaUeKEbT
+[inf] 2017-11-28 06:51:43 | Forging enabled on account: AYsSofoSBNqXkLvpr3bAftCfDjmKJubUXp
+[ERR] 2017-11-28 06:51:43 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:43 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:43 | Loading blocks from: http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:43 | Forging enabled on account: AcGBsycLPs6FVz6eGkVR9VHF4kJBAAD6CJ
+[inf] 2017-11-28 06:51:43 | Forging enabled on account: ASdMhPSuSMQ73s4QVrb3j4oL2HRbBPi3qo
+[inf] 2017-11-28 06:51:43 | Forging enabled on account: APCo1YQLHGcmnp733JNmvLzHHiQGttjtKe
+[ERR] 2017-11-28 06:51:43 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:43 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:43 | Loading blocks from: http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:43 | Forging enabled on account: AM3NA2MVMK5GiaPk4RbupEVHXj19HZmCmq
+[inf] 2017-11-28 06:51:43 | Forging enabled on account: ASTTGJSMwSpeHgymzW4wn8KunHYmQJ2fpp
+[inf] 2017-11-28 06:51:43 | Forging enabled on account: Af67urtKeavoEgCK3GEBzowU8UEgZVKWF5
+[ERR] 2017-11-28 06:51:43 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:43 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:43 | Loading blocks from: http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:43 | Forging enabled on account: AHFZV92c4cfkzDiUQXR5rZW5pX93oo6mBb
+[inf] 2017-11-28 06:51:43 | Forging enabled on account: AUAKTNUVaJa2rtb3TirhWRb36dyCr3uD75
+[ERR] 2017-11-28 06:51:43 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:43 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:43 | Loading blocks from: http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:43 | Forging enabled on account: Aeqqq9rZ5oQ96FFVgkbE6byLdJP1ZYxUPh
+[inf] 2017-11-28 06:51:44 | Forging enabled on account: AcEsHitNkyDbg3Mzs7b8K6TCacMdLeMMKt
+[ERR] 2017-11-28 06:51:44 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:44 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:44 | Loading blocks from: http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:44 | Forging enabled on account: ASFJBZnR6FFoZw8jwAMHFmcEewagazQ7AP
+[inf] 2017-11-28 06:51:44 | Forging enabled on account: AetDovCFwXDxWCXn6skBRWi8AyFgsLQXjA
+[inf] 2017-11-28 06:51:44 | Forging enabled on account: AbWbG9PpxSRsy2pqLqZV4ggdQ7DxBqnei2
+[ERR] 2017-11-28 06:51:44 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:44 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:44 | Loading blocks from: http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:44 | Forging enabled on account: AHM2CsezdPYyLNt2KYHSgDb5pkFMYcoi94
+[inf] 2017-11-28 06:51:44 | Forging enabled on account: ARdyXVPvVt51KJbbB6Fjawpov2KwCQXA1U
+[ERR] 2017-11-28 06:51:44 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:44 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:44 | Loading blocks from: http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:44 | Forging enabled on account: AY2hwFJhmg6DWfzjMatzV1e6iMBAWD7RLp
+[inf] 2017-11-28 06:51:44 | Forging enabled on account: AUHfRGXrTrH7knBCcD9QxqXs8UR4sWm1z7
+[ERR] 2017-11-28 06:51:44 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:44 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:44 | Loading blocks from: http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:44 | Forging enabled on account: AHkpwJeukhuJx7PZUEN4bQEfEPhyJH2HYh
+[inf] 2017-11-28 06:51:44 | Forging enabled on account: AGbNgTWoojUgRdvNEz17x3qGqPCuFcdxpX
+[ERR] 2017-11-28 06:51:44 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:44 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:44 | Loading blocks from: http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:44 | Forging enabled on account: AY6Pyv8JTs4nHEk1xF9Y483qb3miAsQxpz
+[inf] 2017-11-28 06:51:44 | Forging enabled on account: AQWa8V6eCLqPCtdm2JVDHLuX31PVNFetxx
+[ERR] 2017-11-28 06:51:44 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:44 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:44 | Loading blocks from: http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:44 | Forging enabled on account: AbWwZnLTE6kHrc6HZoMkG1vUkz9nBnd4tq
+[inf] 2017-11-28 06:51:44 | Forging enabled on account: ATxYiTrbVP2fh5Aa3z1xvor9xALzdhY3zp
+[ERR] 2017-11-28 06:51:44 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:44 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:44 | Loading blocks from: http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:44 | Forging enabled on account: AFyJrx81whv2Koim7kSTTu3ZTNAfj6mM3g
+[inf] 2017-11-28 06:51:44 | Forging enabled on account: AKdQBSs3sHk33721BWEhy9QKXhWdTgXjRB
+[ERR] 2017-11-28 06:51:44 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:44 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:44 | Loading blocks from: http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:44 | Forging enabled on account: AWbanoEneFFKZ9o1pxFf78hgCmHjk2jmFr
+[inf] 2017-11-28 06:51:45 | Forging enabled on account: Ab3Sr7pFdnU9KGEQo9dQkQ1rdpNjDkY1pN
+[ERR] 2017-11-28 06:51:45 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:45 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:45 | Loading blocks from: http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:45 | Forging enabled on account: ALrJtPHThyKALAQacLK2GmQUDtmr5ExJE2
+[inf] 2017-11-28 06:51:45 | Forging enabled on account: AQxSiV9m38xA2GKUrW1Xsb5rw5mh79rbUh
+[ERR] 2017-11-28 06:51:45 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:45 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:45 | Loading blocks from: http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:45 | Forging enabled on account: AdQT2SrzNzCDjKqRKtyhWE5gr62XAkSyPm
+[inf] 2017-11-28 06:51:45 | Forging enabled on account: AZHnSXc258F8UjckuL8ZUMoy7KU2UjU2CF
+[ERR] 2017-11-28 06:51:45 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:45 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:45 | Loading blocks from: http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:45 | Forging enabled on account: ARevzvSCXVUEqJUSkHrC7TfvJvsA13wFxd
+[inf] 2017-11-28 06:51:45 | Forging enabled on account: AWh97fhH3vKmmqtCq7wp2C3tT5faMnhCnM
+[ERR] 2017-11-28 06:51:45 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:45 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:45 | Loading blocks from: http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:45 | Forging enabled on account: AadvWXJhWRC3Yhrp5jhso8qXtu4NNBGxqJ
+[inf] 2017-11-28 06:51:45 | Forging enabled on account: AZFy3XcibFWmTqoixRP2LFYGqNXx4ZjHK4
+[ERR] 2017-11-28 06:51:45 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:45 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:45 | Loading blocks from: http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:45 | Forging enabled on account: ASQcdVSNMJpU2UDCNV1PE3AVrrQsDZfRgi
+[inf] 2017-11-28 06:51:45 | Forging enabled on account: AYfuGfmJvXruJ9dgUcJNxfVrfJDpSVhGb8
+[ERR] 2017-11-28 06:51:45 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:45 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:45 | Loading blocks from: http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:45 | Forging enabled on account: ANBgw6cELyQJFHa2ZbS4cBa3JRK4vVVnRg
+[inf] 2017-11-28 06:51:45 | Forging enabled on account: ASdbsvw2ZKzU8JU6pAK7tgpH6nziJcEk3k
+[ERR] 2017-11-28 06:51:45 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:45 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:45 | Loading blocks from: http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:45 | Forging enabled on account: ANmcYCkzDD7PZ3SxKhbqTbTUzw38ZeoK2h
+[inf] 2017-11-28 06:51:45 | Forging enabled on account: AKfe2RrBgj7j7mhgFwcTXdGXGhGsMg9Jqo
+[ERR] 2017-11-28 06:51:45 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:45 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:45 | Loading blocks from: http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:45 | Forging enabled on account: AMQPWy1wVPZxefYGe9bMBEXAYdwfNijRNH
+[inf] 2017-11-28 06:51:45 | ####################################################
+[inf] 2017-11-28 06:51:45 | # Loaded 51 delegate(s). Started as a forging node #
+[inf] 2017-11-28 06:51:45 | ####################################################
+[ERR] 2017-11-28 06:51:45 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:45 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:45 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:45 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:45 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:45 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:45 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:45 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:45 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:45 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:45 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:45 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:46 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:46 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:46 | Loading blocks from: http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:47 | Enough quorum from network - quorum: 1 last block id: 11047040886300720172
+[inf] 2017-11-28 06:51:47 | Forged new block id: 7502466787565678903 height: 2 round: 1 slot: 731638 reward:0 transactions:0
+[inf] 2017-11-28 06:51:47 | Adding forged to blockchain - 7502466787565678903
+[inf] 2017-11-28 06:51:47 | Processing forged block - 7502466787565678903
+[ERR] 2017-11-28 06:51:47 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:47 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:47 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:47 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:47 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:47 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:47 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:47 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:47 | Loading blocks from: http://127.0.0.1:4000
+[ERR] 2017-11-28 06:51:47 | Returned data does not match API requirement for GET:/peer/blocks
+[inf] 2017-11-28 06:51:47 | Processsed blocks to height 1 from http://127.0.0.1:4000
+[inf] 2017-11-28 06:51:52 | Enough quorum from network - quorum: 1 last block id: 7502466787565678903
+[inf] 2017-11-28 06:51:52 | Forged new block id: 474862212024150176 height: 3 round: 1 slot: 731639 reward:0 transactions:0
+[inf] 2017-11-28 06:51:52 | Adding forged to blockchain - 474862212024150176
+[inf] 2017-11-28 06:51:52 | Processing forged block - 474862212024150176
+[inf] 2017-11-28 06:52:00 | Enough quorum from network - quorum: 1 last block id: 474862212024150176
+[inf] 2017-11-28 06:52:00 | Forged new block id: 3570571900117129159 height: 4 round: 1 slot: 731640 reward:0 transactions:0
+[inf] 2017-11-28 06:52:00 | Adding forged to blockchain - 3570571900117129159
+[inf] 2017-11-28 06:52:00 | Processing forged block - 3570571900117129159
+[inf] 2017-11-28 06:52:08 | Enough quorum from network - quorum: 1 last block id: 3570571900117129159
+[inf] 2017-11-28 06:52:08 | Forged new block id: 17453988580453941821 height: 5 round: 1 slot: 731641 reward:0 transactions:0
+[inf] 2017-11-28 06:52:08 | Adding forged to blockchain - 17453988580453941821
+[inf] 2017-11-28 06:52:08 | Processing forged block - 17453988580453941821
+[inf] 2017-11-28 06:52:16 | Enough quorum from network - quorum: 1 last block id: 17453988580453941821
+[inf] 2017-11-28 06:52:16 | Forged new block id: 15072098783978200400 height: 6 round: 1 slot: 731642 reward:0 transactions:0
+[inf] 2017-11-28 06:52:16 | Adding forged to blockchain - 15072098783978200400
+[inf] 2017-11-28 06:52:16 | Processing forged block - 15072098783978200400
+[inf] 2017-11-28 06:52:24 | Enough quorum from network - quorum: 1 last block id: 15072098783978200400
+[inf] 2017-11-28 06:52:24 | Forged new block id: 12657520136473387957 height: 7 round: 1 slot: 731643 reward:0 transactions:0
+[inf] 2017-11-28 06:52:24 | Adding forged to blockchain - 12657520136473387957
+[inf] 2017-11-28 06:52:24 | Processing forged block - 12657520136473387957
+[inf] 2017-11-28 06:52:32 | Enough quorum from network - quorum: 1 last block id: 12657520136473387957
+[inf] 2017-11-28 06:52:32 | Forged new block id: 3205764693184480461 height: 8 round: 1 slot: 731644 reward:0 transactions:0
+[inf] 2017-11-28 06:52:32 | Adding forged to blockchain - 3205764693184480461
+[inf] 2017-11-28 06:52:32 | Processing forged block - 3205764693184480461
+[inf] 2017-11-28 06:52:40 | Enough quorum from network - quorum: 1 last block id: 3205764693184480461
+[inf] 2017-11-28 06:52:40 | Forged new block id: 10894121499748651629 height: 9 round: 1 slot: 731645 reward:0 transactions:0
+[inf] 2017-11-28 06:52:40 | Adding forged to blockchain - 10894121499748651629
+[inf] 2017-11-28 06:52:40 | Processing forged block - 10894121499748651629
+[inf] 2017-11-28 06:52:48 | Enough quorum from network - quorum: 1 last block id: 10894121499748651629
+[inf] 2017-11-28 06:52:48 | Forged new block id: 15201270172442822389 height: 10 round: 1 slot: 731646 reward:0 transactions:0
+[inf] 2017-11-28 06:52:48 | Adding forged to blockchain - 15201270172442822389
+[inf] 2017-11-28 06:52:48 | Processing forged block - 15201270172442822389
+[inf] 2017-11-28 06:52:51 | caught internal exit
+[inf] 2017-11-28 06:52:52 | ################################################
+[inf] 2017-11-28 06:52:52 | # Shity node server started on: 127.0.0.1:4000 #
+[inf] 2017-11-28 06:52:52 | ################################################
+[inf] 2017-11-28 06:52:52 | Modules ready and launched
+[inf] 2017-11-28 06:52:52 | Starting Node Manager
+[inf] 2017-11-28 06:52:52 | Transaction pool started
+[inf] 2017-11-28 06:52:52 | Mounting Network API
+[inf] 2017-11-28 06:52:52 | Mounting Public API
+[inf] 2017-11-28 06:52:52 | ###########################
+[inf] 2017-11-28 06:52:52 | # Started as a relay node #
+[inf] 2017-11-28 06:52:52 | ###########################
+[inf] 2017-11-28 06:52:52 | Mempool cleaned: 0 transaction(s) removed, 0 transaction(s) kept
+[inf] 2017-11-28 06:52:52 | loaded 51 active delegates of round 1
+[inf] 2017-11-28 06:52:52 | Forging enabled on account: AbpCBjKXBp8PKdxafNTZDtXuQcpbHEWhoE
+[inf] 2017-11-28 06:52:52 | loaded 10 forgers of round 1
+[inf] 2017-11-28 06:52:52 | Forging enabled on account: AT3oaJCx6vknZL2NUos8zwsA7AK7GXGgGc
+[inf] 2017-11-28 06:52:52 | Forging enabled on account: ASABFN1D4SMCrBC6XpC6NoqQW8tK4WycPu
+[inf] 2017-11-28 06:52:52 | Forging enabled on account: AM8StU5WMfbd65HtPGfvDmtqTLT4atqnZL
+[inf] 2017-11-28 06:52:52 | Forging enabled on account: AYXcUjka3XUnMNCdh2f5axLTLfVN3wsMYr
+[inf] 2017-11-28 06:52:52 | Forging enabled on account: ARxp9bL6VpRdzrtG99KRoQDbtfNcHPJSoU
+[inf] 2017-11-28 06:52:52 | Forging enabled on account: Ab5ZZs3x1RNmu5KonCCiqDJasrUYJMfa3r
+[inf] 2017-11-28 06:52:52 | Forging enabled on account: AWGWKjdZ5DvVkBPcpSbNu6c7qeGaUeKEbT
+[inf] 2017-11-28 06:52:52 | Forging enabled on account: AYsSofoSBNqXkLvpr3bAftCfDjmKJubUXp
+[inf] 2017-11-28 06:52:52 | Forging enabled on account: AcGBsycLPs6FVz6eGkVR9VHF4kJBAAD6CJ
+[inf] 2017-11-28 06:52:52 | Forging enabled on account: ASdMhPSuSMQ73s4QVrb3j4oL2HRbBPi3qo
+[inf] 2017-11-28 06:52:53 | Forging enabled on account: APCo1YQLHGcmnp733JNmvLzHHiQGttjtKe
+[inf] 2017-11-28 06:52:53 | Forging enabled on account: AM3NA2MVMK5GiaPk4RbupEVHXj19HZmCmq
+[inf] 2017-11-28 06:52:53 | Forging enabled on account: ASTTGJSMwSpeHgymzW4wn8KunHYmQJ2fpp
+[inf] 2017-11-28 06:52:53 | Forging enabled on account: Af67urtKeavoEgCK3GEBzowU8UEgZVKWF5
+[inf] 2017-11-28 06:52:53 | Forging enabled on account: AHFZV92c4cfkzDiUQXR5rZW5pX93oo6mBb
+[inf] 2017-11-28 06:52:53 | Forging enabled on account: AUAKTNUVaJa2rtb3TirhWRb36dyCr3uD75
+[inf] 2017-11-28 06:52:53 | Forging enabled on account: Aeqqq9rZ5oQ96FFVgkbE6byLdJP1ZYxUPh
+[inf] 2017-11-28 06:52:53 | Forging enabled on account: AcEsHitNkyDbg3Mzs7b8K6TCacMdLeMMKt
+[inf] 2017-11-28 06:52:53 | Forging enabled on account: ASFJBZnR6FFoZw8jwAMHFmcEewagazQ7AP
+[inf] 2017-11-28 06:52:53 | Forging enabled on account: AetDovCFwXDxWCXn6skBRWi8AyFgsLQXjA
+[inf] 2017-11-28 06:52:53 | Forging enabled on account: AbWbG9PpxSRsy2pqLqZV4ggdQ7DxBqnei2
+[inf] 2017-11-28 06:52:53 | Forging enabled on account: AHM2CsezdPYyLNt2KYHSgDb5pkFMYcoi94
+[inf] 2017-11-28 06:52:53 | Forging enabled on account: ARdyXVPvVt51KJbbB6Fjawpov2KwCQXA1U
+[inf] 2017-11-28 06:52:53 | Forging enabled on account: AY2hwFJhmg6DWfzjMatzV1e6iMBAWD7RLp
+[inf] 2017-11-28 06:52:53 | Forging enabled on account: AUHfRGXrTrH7knBCcD9QxqXs8UR4sWm1z7
+[inf] 2017-11-28 06:52:53 | Forging enabled on account: AHkpwJeukhuJx7PZUEN4bQEfEPhyJH2HYh
+[inf] 2017-11-28 06:52:54 | Forging enabled on account: AGbNgTWoojUgRdvNEz17x3qGqPCuFcdxpX
+[inf] 2017-11-28 06:52:54 | Forging enabled on account: AY6Pyv8JTs4nHEk1xF9Y483qb3miAsQxpz
+[inf] 2017-11-28 06:52:54 | Forging enabled on account: AQWa8V6eCLqPCtdm2JVDHLuX31PVNFetxx
+[inf] 2017-11-28 06:52:54 | Forging enabled on account: AbWwZnLTE6kHrc6HZoMkG1vUkz9nBnd4tq
+[inf] 2017-11-28 06:52:54 | Forging enabled on account: ATxYiTrbVP2fh5Aa3z1xvor9xALzdhY3zp
+[inf] 2017-11-28 06:52:54 | Forging enabled on account: AFyJrx81whv2Koim7kSTTu3ZTNAfj6mM3g
+[inf] 2017-11-28 06:52:54 | Forging enabled on account: AKdQBSs3sHk33721BWEhy9QKXhWdTgXjRB
+[inf] 2017-11-28 06:52:54 | Forging enabled on account: AWbanoEneFFKZ9o1pxFf78hgCmHjk2jmFr
+[inf] 2017-11-28 06:52:54 | Forging enabled on account: Ab3Sr7pFdnU9KGEQo9dQkQ1rdpNjDkY1pN
+[inf] 2017-11-28 06:52:54 | Forging enabled on account: ALrJtPHThyKALAQacLK2GmQUDtmr5ExJE2
+[inf] 2017-11-28 06:52:54 | Forging enabled on account: AQxSiV9m38xA2GKUrW1Xsb5rw5mh79rbUh
+[inf] 2017-11-28 06:52:54 | Forging enabled on account: AdQT2SrzNzCDjKqRKtyhWE5gr62XAkSyPm
+[inf] 2017-11-28 06:52:54 | Forging enabled on account: AZHnSXc258F8UjckuL8ZUMoy7KU2UjU2CF
+[inf] 2017-11-28 06:52:54 | Forging enabled on account: ARevzvSCXVUEqJUSkHrC7TfvJvsA13wFxd
+[inf] 2017-11-28 06:52:54 | Forging enabled on account: AWh97fhH3vKmmqtCq7wp2C3tT5faMnhCnM
+[inf] 2017-11-28 06:52:54 | Forging enabled on account: AadvWXJhWRC3Yhrp5jhso8qXtu4NNBGxqJ
+[inf] 2017-11-28 06:52:55 | Forging enabled on account: AZFy3XcibFWmTqoixRP2LFYGqNXx4ZjHK4
+[inf] 2017-11-28 06:52:55 | Forging enabled on account: ASQcdVSNMJpU2UDCNV1PE3AVrrQsDZfRgi
+[inf] 2017-11-28 06:52:55 | Forging enabled on account: AYfuGfmJvXruJ9dgUcJNxfVrfJDpSVhGb8
+[inf] 2017-11-28 06:52:55 | Forging enabled on account: ANBgw6cELyQJFHa2ZbS4cBa3JRK4vVVnRg
+[inf] 2017-11-28 06:52:55 | Forging enabled on account: ASdbsvw2ZKzU8JU6pAK7tgpH6nziJcEk3k
+[inf] 2017-11-28 06:52:55 | Forging enabled on account: ANmcYCkzDD7PZ3SxKhbqTbTUzw38ZeoK2h
+[inf] 2017-11-28 06:52:55 | Forging enabled on account: AKfe2RrBgj7j7mhgFwcTXdGXGhGsMg9Jqo
+[inf] 2017-11-28 06:52:55 | Forging enabled on account: AMQPWy1wVPZxefYGe9bMBEXAYdwfNijRNH
+[inf] 2017-11-28 06:52:55 | ####################################################
+[inf] 2017-11-28 06:52:55 | # Loaded 51 delegate(s). Started as a forging node #
+[inf] 2017-11-28 06:52:55 | ####################################################
+[inf] 2017-11-28 06:53:13 | caught internal exit
+[inf] 2017-11-28 06:53:21 | ################################################
+[inf] 2017-11-28 06:53:21 | # Shity node server started on: 127.0.0.1:4000 #
+[inf] 2017-11-28 06:53:21 | ################################################
+[inf] 2017-11-28 06:53:22 | Modules ready and launched
+[inf] 2017-11-28 06:53:22 | Starting Node Manager
+[inf] 2017-11-28 06:53:22 | Transaction pool started
+[inf] 2017-11-28 06:53:22 | Mounting Network API
+[inf] 2017-11-28 06:53:22 | Mounting Public API
+[inf] 2017-11-28 06:53:22 | ###########################
+[inf] 2017-11-28 06:53:22 | # Started as a relay node #
+[inf] 2017-11-28 06:53:22 | ###########################
+[inf] 2017-11-28 06:53:22 | Mempool cleaned: 0 transaction(s) removed, 0 transaction(s) kept
+[inf] 2017-11-28 06:53:22 | Forging enabled on account: AbpCBjKXBp8PKdxafNTZDtXuQcpbHEWhoE
+[inf] 2017-11-28 06:53:22 | loaded 10 forgers of round 1
+[inf] 2017-11-28 06:53:22 | loaded 51 active delegates of round 1
+[inf] 2017-11-28 06:53:22 | Forging enabled on account: AT3oaJCx6vknZL2NUos8zwsA7AK7GXGgGc
+[inf] 2017-11-28 06:53:22 | Forging enabled on account: ASABFN1D4SMCrBC6XpC6NoqQW8tK4WycPu
+[inf] 2017-11-28 06:53:22 | Forging enabled on account: AM8StU5WMfbd65HtPGfvDmtqTLT4atqnZL
+[inf] 2017-11-28 06:53:22 | Forging enabled on account: AYXcUjka3XUnMNCdh2f5axLTLfVN3wsMYr
+[inf] 2017-11-28 06:53:22 | Forging enabled on account: ARxp9bL6VpRdzrtG99KRoQDbtfNcHPJSoU
+[inf] 2017-11-28 06:53:22 | Forging enabled on account: Ab5ZZs3x1RNmu5KonCCiqDJasrUYJMfa3r
+[inf] 2017-11-28 06:53:22 | Forging enabled on account: AWGWKjdZ5DvVkBPcpSbNu6c7qeGaUeKEbT
+[inf] 2017-11-28 06:53:22 | Forging enabled on account: AYsSofoSBNqXkLvpr3bAftCfDjmKJubUXp
+[inf] 2017-11-28 06:53:22 | Forging enabled on account: AcGBsycLPs6FVz6eGkVR9VHF4kJBAAD6CJ
+[inf] 2017-11-28 06:53:22 | Forging enabled on account: ASdMhPSuSMQ73s4QVrb3j4oL2HRbBPi3qo
+[inf] 2017-11-28 06:53:22 | Forging enabled on account: APCo1YQLHGcmnp733JNmvLzHHiQGttjtKe
+[inf] 2017-11-28 06:53:22 | Forging enabled on account: AM3NA2MVMK5GiaPk4RbupEVHXj19HZmCmq
+[inf] 2017-11-28 06:53:22 | Forging enabled on account: ASTTGJSMwSpeHgymzW4wn8KunHYmQJ2fpp
+[inf] 2017-11-28 06:53:22 | Forging enabled on account: Af67urtKeavoEgCK3GEBzowU8UEgZVKWF5
+[inf] 2017-11-28 06:53:22 | Forging enabled on account: AHFZV92c4cfkzDiUQXR5rZW5pX93oo6mBb
+[inf] 2017-11-28 06:53:23 | Forging enabled on account: AUAKTNUVaJa2rtb3TirhWRb36dyCr3uD75
+[inf] 2017-11-28 06:53:23 | Forging enabled on account: Aeqqq9rZ5oQ96FFVgkbE6byLdJP1ZYxUPh
+[inf] 2017-11-28 06:53:23 | Forging enabled on account: AcEsHitNkyDbg3Mzs7b8K6TCacMdLeMMKt
+[inf] 2017-11-28 06:53:23 | Forging enabled on account: ASFJBZnR6FFoZw8jwAMHFmcEewagazQ7AP
+[inf] 2017-11-28 06:53:23 | Forging enabled on account: AetDovCFwXDxWCXn6skBRWi8AyFgsLQXjA
+[inf] 2017-11-28 06:53:23 | Forging enabled on account: AbWbG9PpxSRsy2pqLqZV4ggdQ7DxBqnei2
+[inf] 2017-11-28 06:53:23 | Forging enabled on account: AHM2CsezdPYyLNt2KYHSgDb5pkFMYcoi94
+[inf] 2017-11-28 06:53:23 | Forging enabled on account: ARdyXVPvVt51KJbbB6Fjawpov2KwCQXA1U
+[inf] 2017-11-28 06:53:23 | Forging enabled on account: AY2hwFJhmg6DWfzjMatzV1e6iMBAWD7RLp
+[inf] 2017-11-28 06:53:23 | Forging enabled on account: AUHfRGXrTrH7knBCcD9QxqXs8UR4sWm1z7
+[inf] 2017-11-28 06:53:23 | Forging enabled on account: AHkpwJeukhuJx7PZUEN4bQEfEPhyJH2HYh
+[inf] 2017-11-28 06:53:23 | Forging enabled on account: AGbNgTWoojUgRdvNEz17x3qGqPCuFcdxpX
+[inf] 2017-11-28 06:53:23 | Forging enabled on account: AY6Pyv8JTs4nHEk1xF9Y483qb3miAsQxpz
+[inf] 2017-11-28 06:53:23 | Forging enabled on account: AQWa8V6eCLqPCtdm2JVDHLuX31PVNFetxx
+[inf] 2017-11-28 06:53:23 | Forging enabled on account: AbWwZnLTE6kHrc6HZoMkG1vUkz9nBnd4tq
+[inf] 2017-11-28 06:53:23 | Forging enabled on account: ATxYiTrbVP2fh5Aa3z1xvor9xALzdhY3zp
+[inf] 2017-11-28 06:53:23 | Forging enabled on account: AFyJrx81whv2Koim7kSTTu3ZTNAfj6mM3g
+[inf] 2017-11-28 06:53:23 | Forging enabled on account: AKdQBSs3sHk33721BWEhy9QKXhWdTgXjRB
+[inf] 2017-11-28 06:53:23 | Forging enabled on account: AWbanoEneFFKZ9o1pxFf78hgCmHjk2jmFr
+[inf] 2017-11-28 06:53:24 | Forging enabled on account: Ab3Sr7pFdnU9KGEQo9dQkQ1rdpNjDkY1pN
+[inf] 2017-11-28 06:53:24 | Forging enabled on account: ALrJtPHThyKALAQacLK2GmQUDtmr5ExJE2
+[inf] 2017-11-28 06:53:24 | Forging enabled on account: AQxSiV9m38xA2GKUrW1Xsb5rw5mh79rbUh
+[inf] 2017-11-28 06:53:24 | Forging enabled on account: AdQT2SrzNzCDjKqRKtyhWE5gr62XAkSyPm
+[inf] 2017-11-28 06:53:24 | Forging enabled on account: AZHnSXc258F8UjckuL8ZUMoy7KU2UjU2CF
+[inf] 2017-11-28 06:53:24 | Forging enabled on account: ARevzvSCXVUEqJUSkHrC7TfvJvsA13wFxd
+[inf] 2017-11-28 06:53:24 | Forging enabled on account: AWh97fhH3vKmmqtCq7wp2C3tT5faMnhCnM
+[inf] 2017-11-28 06:53:24 | Forging enabled on account: AadvWXJhWRC3Yhrp5jhso8qXtu4NNBGxqJ
+[inf] 2017-11-28 06:53:24 | Forging enabled on account: AZFy3XcibFWmTqoixRP2LFYGqNXx4ZjHK4
+[inf] 2017-11-28 06:53:24 | Forging enabled on account: ASQcdVSNMJpU2UDCNV1PE3AVrrQsDZfRgi
+[inf] 2017-11-28 06:53:24 | Forging enabled on account: AYfuGfmJvXruJ9dgUcJNxfVrfJDpSVhGb8
+[inf] 2017-11-28 06:53:24 | Forging enabled on account: ANBgw6cELyQJFHa2ZbS4cBa3JRK4vVVnRg
+[inf] 2017-11-28 06:53:24 | Forging enabled on account: ASdbsvw2ZKzU8JU6pAK7tgpH6nziJcEk3k
+[inf] 2017-11-28 06:53:24 | Forging enabled on account: ANmcYCkzDD7PZ3SxKhbqTbTUzw38ZeoK2h
+[inf] 2017-11-28 06:53:24 | Forging enabled on account: AKfe2RrBgj7j7mhgFwcTXdGXGhGsMg9Jqo
+[inf] 2017-11-28 06:53:24 | Forging enabled on account: AMQPWy1wVPZxefYGe9bMBEXAYdwfNijRNH
+[inf] 2017-11-28 06:53:24 | ####################################################
+[inf] 2017-11-28 06:53:24 | # Loaded 51 delegate(s). Started as a forging node #
+[inf] 2017-11-28 06:53:24 | ####################################################
+[inf] 2017-11-28 06:53:40 | caught internal exit
+[inf] 2017-11-28 06:53:41 | ################################################
+[inf] 2017-11-28 06:53:41 | # Shity node server started on: 127.0.0.1:4000 #
+[inf] 2017-11-28 06:53:41 | ################################################
+[inf] 2017-11-28 06:53:41 | Modules ready and launched
+[inf] 2017-11-28 06:53:41 | Starting Node Manager
+[inf] 2017-11-28 06:53:41 | Transaction pool started
+[inf] 2017-11-28 06:53:41 | Mounting Network API
+[inf] 2017-11-28 06:53:41 | Mounting Public API
+[inf] 2017-11-28 06:53:41 | ###########################
+[inf] 2017-11-28 06:53:41 | # Started as a relay node #
+[inf] 2017-11-28 06:53:41 | ###########################
+[inf] 2017-11-28 06:53:41 | Mempool cleaned: 0 transaction(s) removed, 0 transaction(s) kept
+[inf] 2017-11-28 06:53:41 | loaded 51 active delegates of round 1
+[inf] 2017-11-28 06:53:41 | Forging enabled on account: AbpCBjKXBp8PKdxafNTZDtXuQcpbHEWhoE
+[inf] 2017-11-28 06:53:42 | loaded 10 forgers of round 1
+[inf] 2017-11-28 06:53:42 | Forging enabled on account: AT3oaJCx6vknZL2NUos8zwsA7AK7GXGgGc
+[inf] 2017-11-28 06:53:42 | Forging enabled on account: ASABFN1D4SMCrBC6XpC6NoqQW8tK4WycPu
+[inf] 2017-11-28 06:53:42 | Forging enabled on account: AM8StU5WMfbd65HtPGfvDmtqTLT4atqnZL
+[inf] 2017-11-28 06:53:42 | Forging enabled on account: AYXcUjka3XUnMNCdh2f5axLTLfVN3wsMYr
+[inf] 2017-11-28 06:53:42 | Forging enabled on account: ARxp9bL6VpRdzrtG99KRoQDbtfNcHPJSoU
+[inf] 2017-11-28 06:53:42 | Forging enabled on account: Ab5ZZs3x1RNmu5KonCCiqDJasrUYJMfa3r
+[inf] 2017-11-28 06:53:42 | Forging enabled on account: AWGWKjdZ5DvVkBPcpSbNu6c7qeGaUeKEbT
+[inf] 2017-11-28 06:53:42 | Forging enabled on account: AYsSofoSBNqXkLvpr3bAftCfDjmKJubUXp
+[inf] 2017-11-28 06:53:42 | Forging enabled on account: AcGBsycLPs6FVz6eGkVR9VHF4kJBAAD6CJ
+[inf] 2017-11-28 06:53:42 | No new block processed from http://127.0.0.1:4000
+[inf] 2017-11-28 06:53:42 | Forging enabled on account: ASdMhPSuSMQ73s4QVrb3j4oL2HRbBPi3qo
+[inf] 2017-11-28 06:53:42 | Forging enabled on account: APCo1YQLHGcmnp733JNmvLzHHiQGttjtKe
+[inf] 2017-11-28 06:53:42 | Forging enabled on account: AM3NA2MVMK5GiaPk4RbupEVHXj19HZmCmq
+[inf] 2017-11-28 06:53:42 | Forging enabled on account: ASTTGJSMwSpeHgymzW4wn8KunHYmQJ2fpp
+[inf] 2017-11-28 06:53:42 | Forging enabled on account: Af67urtKeavoEgCK3GEBzowU8UEgZVKWF5
+[inf] 2017-11-28 06:53:43 | Forging enabled on account: AHFZV92c4cfkzDiUQXR5rZW5pX93oo6mBb
+[inf] 2017-11-28 06:53:43 | Forging enabled on account: AUAKTNUVaJa2rtb3TirhWRb36dyCr3uD75
+[inf] 2017-11-28 06:53:43 | Forging enabled on account: Aeqqq9rZ5oQ96FFVgkbE6byLdJP1ZYxUPh
+[inf] 2017-11-28 06:53:43 | Forging enabled on account: AcEsHitNkyDbg3Mzs7b8K6TCacMdLeMMKt
+[inf] 2017-11-28 06:53:43 | Forging enabled on account: ASFJBZnR6FFoZw8jwAMHFmcEewagazQ7AP
+[inf] 2017-11-28 06:53:43 | Forging enabled on account: AetDovCFwXDxWCXn6skBRWi8AyFgsLQXjA
+[inf] 2017-11-28 06:53:43 | Forging enabled on account: AbWbG9PpxSRsy2pqLqZV4ggdQ7DxBqnei2
+[inf] 2017-11-28 06:53:43 | Forging enabled on account: AHM2CsezdPYyLNt2KYHSgDb5pkFMYcoi94
+[inf] 2017-11-28 06:53:43 | Forging enabled on account: ARdyXVPvVt51KJbbB6Fjawpov2KwCQXA1U
+[inf] 2017-11-28 06:53:43 | Forging enabled on account: AY2hwFJhmg6DWfzjMatzV1e6iMBAWD7RLp
+[inf] 2017-11-28 06:53:43 | Forging enabled on account: AUHfRGXrTrH7knBCcD9QxqXs8UR4sWm1z7
+[inf] 2017-11-28 06:53:43 | Forging enabled on account: AHkpwJeukhuJx7PZUEN4bQEfEPhyJH2HYh
+[inf] 2017-11-28 06:53:43 | Forging enabled on account: AGbNgTWoojUgRdvNEz17x3qGqPCuFcdxpX
+[inf] 2017-11-28 06:53:43 | Forging enabled on account: AY6Pyv8JTs4nHEk1xF9Y483qb3miAsQxpz
+[inf] 2017-11-28 06:53:43 | Forging enabled on account: AQWa8V6eCLqPCtdm2JVDHLuX31PVNFetxx
+[inf] 2017-11-28 06:53:43 | Forging enabled on account: AbWwZnLTE6kHrc6HZoMkG1vUkz9nBnd4tq
+[inf] 2017-11-28 06:53:44 | Forging enabled on account: ATxYiTrbVP2fh5Aa3z1xvor9xALzdhY3zp
+[inf] 2017-11-28 06:53:44 | Forging enabled on account: AFyJrx81whv2Koim7kSTTu3ZTNAfj6mM3g
+[inf] 2017-11-28 06:53:44 | Forging enabled on account: AKdQBSs3sHk33721BWEhy9QKXhWdTgXjRB
+[inf] 2017-11-28 06:53:44 | Forging enabled on account: AWbanoEneFFKZ9o1pxFf78hgCmHjk2jmFr
+[inf] 2017-11-28 06:53:44 | Forging enabled on account: Ab3Sr7pFdnU9KGEQo9dQkQ1rdpNjDkY1pN
+[inf] 2017-11-28 06:53:44 | Forging enabled on account: ALrJtPHThyKALAQacLK2GmQUDtmr5ExJE2
+[inf] 2017-11-28 06:53:44 | Forging enabled on account: AQxSiV9m38xA2GKUrW1Xsb5rw5mh79rbUh
+[inf] 2017-11-28 06:53:44 | Forging enabled on account: AdQT2SrzNzCDjKqRKtyhWE5gr62XAkSyPm
+[inf] 2017-11-28 06:53:44 | Forging enabled on account: AZHnSXc258F8UjckuL8ZUMoy7KU2UjU2CF
+[inf] 2017-11-28 06:53:44 | Forging enabled on account: ARevzvSCXVUEqJUSkHrC7TfvJvsA13wFxd
+[inf] 2017-11-28 06:53:44 | Forging enabled on account: AWh97fhH3vKmmqtCq7wp2C3tT5faMnhCnM
+[inf] 2017-11-28 06:53:44 | Forging enabled on account: AadvWXJhWRC3Yhrp5jhso8qXtu4NNBGxqJ
+[inf] 2017-11-28 06:53:44 | Forging enabled on account: AZFy3XcibFWmTqoixRP2LFYGqNXx4ZjHK4
+[inf] 2017-11-28 06:53:44 | Forging enabled on account: ASQcdVSNMJpU2UDCNV1PE3AVrrQsDZfRgi
+[inf] 2017-11-28 06:53:44 | Forging enabled on account: AYfuGfmJvXruJ9dgUcJNxfVrfJDpSVhGb8
+[inf] 2017-11-28 06:53:45 | Forging enabled on account: ANBgw6cELyQJFHa2ZbS4cBa3JRK4vVVnRg
+[inf] 2017-11-28 06:53:45 | Forging enabled on account: ASdbsvw2ZKzU8JU6pAK7tgpH6nziJcEk3k
+[inf] 2017-11-28 06:53:45 | Forging enabled on account: ANmcYCkzDD7PZ3SxKhbqTbTUzw38ZeoK2h
+[inf] 2017-11-28 06:53:45 | Forging enabled on account: AKfe2RrBgj7j7mhgFwcTXdGXGhGsMg9Jqo
+[inf] 2017-11-28 06:53:45 | Forging enabled on account: AMQPWy1wVPZxefYGe9bMBEXAYdwfNijRNH
+[inf] 2017-11-28 06:53:45 | ####################################################
+[inf] 2017-11-28 06:53:45 | # Loaded 51 delegate(s). Started as a forging node #
+[inf] 2017-11-28 06:53:45 | ####################################################
+[inf] 2017-11-28 06:53:48 | Forked from network - network: 10 quorum: 0 last block id: 15201270172442822389
+[inf] 2017-11-28 06:53:48 | Fork - {"delegate":"02209fcc255c4225b492a4a33e91a9433ac36a3ca272e8718acd2813624865dff2","block":{"id":"15201270172442822389","timestamp":5853168,"height":10,"previousBlock":"10894121499748651629"},"cause":6}
+[inf] 2017-11-28 06:53:49 | Forked from network - network: 10 quorum: 0 last block id: 15201270172442822389
+[inf] 2017-11-28 06:53:49 | Fork - {"delegate":"02209fcc255c4225b492a4a33e91a9433ac36a3ca272e8718acd2813624865dff2","block":{"id":"15201270172442822389","timestamp":5853168,"height":10,"previousBlock":"10894121499748651629"},"cause":6}
+[inf] 2017-11-28 06:53:50 | Forked from network - network: 10 quorum: 0 last block id: 15201270172442822389
+[inf] 2017-11-28 06:53:50 | Fork - {"delegate":"02209fcc255c4225b492a4a33e91a9433ac36a3ca272e8718acd2813624865dff2","block":{"id":"15201270172442822389","timestamp":5853168,"height":10,"previousBlock":"10894121499748651629"},"cause":6}
+[inf] 2017-11-28 06:53:51 | Forked from network - network: 10 quorum: 0 last block id: 15201270172442822389
+[inf] 2017-11-28 06:53:51 | Fork - {"delegate":"02209fcc255c4225b492a4a33e91a9433ac36a3ca272e8718acd2813624865dff2","block":{"id":"15201270172442822389","timestamp":5853168,"height":10,"previousBlock":"10894121499748651629"},"cause":6}
+[inf] 2017-11-28 06:53:52 | Enough quorum from network - quorum: 1 last block id: 15201270172442822389
+[inf] 2017-11-28 06:53:52 | Forged new block id: 18228752673446209825 height: 11 round: 1 slot: 731654 reward:0 transactions:0
+[inf] 2017-11-28 06:53:52 | Adding forged to blockchain - 18228752673446209825
+[inf] 2017-11-28 06:53:52 | Processing forged block - 18228752673446209825
+[inf] 2017-11-28 06:54:00 | Enough quorum from network - quorum: 1 last block id: 18228752673446209825
+[inf] 2017-11-28 06:54:00 | Forged new block id: 17975532074427836760 height: 12 round: 1 slot: 731655 reward:0 transactions:0
+[inf] 2017-11-28 06:54:00 | Adding forged to blockchain - 17975532074427836760
+[inf] 2017-11-28 06:54:00 | Processing forged block - 17975532074427836760
+[inf] 2017-11-28 06:54:07 | caught internal exit
